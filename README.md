@@ -1,2 +1,3 @@
 # XSLR_Expert_Assessment_Protocol_E01
-X-SLR: A Hexagonal Architecture Framework for Reporting Systematic Literature Reviews
+
+This repository contains the expert assessment protocol used to evaluate the X-SLR representation of a previously published systematic literature review. Independent practitioners with systematic review experience rate eight statements on a 7-point Likert scale, covering clarity, traceability, method–tool separation, documentation-gap identification, and complementarity with established guidelines, and answer four open questions. Results are reported as median and IQR per statement and provide preliminary perceived-utility evidence of X-SLR as a reporting artifact.
